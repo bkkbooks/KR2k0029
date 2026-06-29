@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0029/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0029_WYG_002-1a, image: WYG0493/WYG0493-0014a.png}
+body:
+  text: 姑蘇志卷二明王鏊撰許時更始元年右自武帝至更始時可考者太守四人都尉一人新莽時太守一人通凡守臣六人姑蘇志卷二
+  hash: sha256:8fb82d64e6c5b2d7c16688fe5810ae8c45368f20c396281893255a4f75c7828d
+metadata:
+  title: 姑蘇志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:58.448054'
+  juan_title: 卷二
+  source:
+    repository: kanripo
+    path: KR2k0029/KR2k0029_002.txt
+hash: sha256:850a7860d7ee47b1e4dfd33e892ad9363c030a353d1e2c2cc51faad3b93c7617

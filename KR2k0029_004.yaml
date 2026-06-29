@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0029/krp/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0029_WYG_004-1a, image: WYG0493/WYG0493-0067a.png}
+body:
+  text: 姑蘇志卷五明王鏊撰科第表上地之重以人才才之用以薦進肇自漢代以迄于今按籍繫時列其氏名附所歷為科第表姑蘇志卷五
+  hash: sha256:0d44a7cecfddc954eac651dceecef405ff6f1384e3dfc059c8da26ba18aac48a
+metadata:
+  title: 姑蘇志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:58.448054'
+  juan_title: 卷五
+  source:
+    repository: kanripo
+    path: KR2k0029/KR2k0029_004.txt
+hash: sha256:19a331f8f079d1d8915634ad5f314d9368e7f97f14fc4959380787d8a2411d58

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0029/krp/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0029_WYG_005-1a, image: WYG0493/WYG0493-0094a.png}
+body:
+  text: 姑蘇志卷六明王鏊撰科第表中國朝取士三年一舉中式者謂之鄉貢明年會試中式御策者謂之進士餘則有嵗貢每嵗行之又間行賢良方正經明行修等科法亦盡矣吾蘇號多士不可得而悉書也惟列鄉貢進士二者於篇鄉貢士有字有無字任或地或不地缺所不知也缺任者逺則先卒近或未授職也有全缺者進士并有傳或無所考者也魁元必著文所難也間有著其行者既卒且無傳有不可略者也下表倣此盧志有洪武三年徐士全榜金文徵等二十人不著縣按文徵嘉定朱􅛁吳江張著常熟夏時崑山餘十六人無考又府學題名記洪武十七年有張迅茅良驥亦不著縣併列於末以俟博覽者詳訂云張三同鄭叔雨朱炳黃琮唐溥王莊傅範鄒立誠徐煥顔繼先宋圭張立本黃著范益陳夢始范同大張迅茅良驥科第表下進士盧志洪武四年金璹榜二人傅㪺陳永著崑山故縣志遂載以為進士及考其年登科録狀元吳伯宗非璹也傅陳亦無名宋濂會試録題詞甚詳則璹為鄉榜無疑故表以洪武十八年為始國朝吳長洲崑山常熟吳江嘉定崇明三衛以上俱正德年間貢姑蘇志卷六
+  hash: sha256:793aa59ebd89d36cd512b967090da7c56c438c9a5d1e179a868113f570e5392c
+metadata:
+  title: 姑蘇志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:58.448054'
+  juan_title: 卷六
+  source:
+    repository: kanripo
+    path: KR2k0029/KR2k0029_005.txt
+hash: sha256:87bff531f232cd153262dc023c9f3ccfab5fc164ccad7c80ffbbe4aa6b20acd1
